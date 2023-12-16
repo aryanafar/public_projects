@@ -1,5 +1,5 @@
 # CA_wildfire_project
-A collaborative project with 2 other students (named in presentation pdf) on classifying California wildfire severity using a Random Forest model.
+A collaborative project, conducted in Python, with 2 other students (named in presentation pdf) on classifying California wildfire severity using a Random Forest model.
 
 ## CA_wildfire_severity_model_presentation.pdf
 A presentation outlining each step of the Data Science lifecycle, from question formation, exploratory data analysis, to modeling, and conclusions.
