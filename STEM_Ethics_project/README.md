@@ -1,0 +1,2 @@
+# STEM_Ethics_Survey_analysis.ipynb
+In a team of 10, as the Academics Director of my Associated Students of the University of California, I collected about 100 UC Berkeley STEM students' survey responses to questions about their feelings towards Ethics curriculum. This python notebook contains my independently developed analysis of these survey responses. These results led to the successful passing of an official student government resolution to instate more robust STEM Ethics curriculum across the UC.
