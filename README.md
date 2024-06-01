@@ -1,17 +1,17 @@
 # public_projects
-This is a public collection of some of my shareable academic and professional Data Science projects; this includes Python notebooks leveraging Machine Learning methods and visualization techniques, SQL and NoSQL projects, R projects with an emphasis on statistics, and research design. 
+This is a public collection of some of my shareable academic and professional Data Science projects; this includes Python notebooks leveraging Machine Learning methods and visualization techniques, SQL and NoSQL projects, R projects with an emphasis on statistics and causal inference, experiments, and research design projects. 
 
 ## CA_wildfire_project
-A Python based project utilizing CA wildfire data. As a head coding contributer to this project, along with 2 teammates, I implemented, tested, and assessed a Random Forest classification model that predicts wildfire severity.
+This is a Python-based Machine Learning project utilizing climate data and relevant land features to predict California wildfire severity. As a leading coding contributer in a group of 3, I implemented cleaning, feature engineering, exploratory data analysis, model training and validation, and final model assessment.
 
 ## NYC_taxi_project
-An R based project utilizing NYC yellow taxi records. As the primary contributer in a team of 3, I posed the question: Can a driver's speed, specifically their strategic speediness, affect what percent a passenger tips? We implement a fixed effect, or within groups, model to account for fixed impacts between source-destination location pairs.
+This is an R-based observational study utilizing NYC yellow taxi records to answer the question of whether or not a driver's speediness affects passenger satisfaction, measured in tip percentage. As the primary technical contributer and project manager in a team of 3, I implemented a fixed-effects model to account for within-group impacts of source-destination location pairs.
 
 ## NoSQL_food_delivery_project
-A Python and NoSQL based group project utilizing BART (Bay Area Rapid Transit) line data and Neo4J. Our company of interest is a fictional Bay Area food delivery system (called AGM). We aim to leverage NoSQL to solve various business problems that this food delivery company might run into using just relational databases in their company-wide analytics. In a group of 3, we developed and implemented 3 graph algorithms to optimize BART path efficiency using Neo4J (Python, Jupyter, VM, AWS). We also present various business solutions that leverage Neo4J, Redis, and MongoDB.
+This is a Python and NoSQL-based data engineering project utilizing BART (Bay Area Rapid Transit) line data. We engineered food delivery system for a fictional Bay Area food delivery company (called AGM). We leveraged NoSQL (Neo4J, Redis, MongoDB) to solve various business problems that AGM might run into using just relational databases. As a lead design thinker and coding developer in a group of 3, I developed and implemented 3 graph algorithms to optimize BART path efficiency using Neo4J. I also developed various business solutions that leveraged Redis and MongoDB for to integrate traffic data and customer analytics.
 
 ## SQL_food_sales_analytics_projects
-An individual SQL-based project with analytics on food sales data parsed from a nested json. It involves the creating, loading, and staging of tables, as well as the validation, cleansing, and preliminary analytics of data. Our question of interest is whether or not to withold customer data from 3rd party sales channels.
+This is an individual SQL-based project involving food sales analytics from parsing JSON files. I created, lodaded, and staged tables, and validated, cleansed, and preliminarily analyzed the data. After this analysis, I answered the question of whether or not to withold customer data from 3rd party sales channels.
 
 ## STEM_Ethics_project
-A Python based project utilizing 100 UC Berkeley STEM student survey responses manually collected by myself and a team of 10 in the iconic walkway of Sproul Plaza in Berkeley. I independently coded the analysis and visualizations, which helped us pass an official resolution to implement more robust STEM Ethics curriculum across all UCs.
+This Python-based analyzed 100 UC Berkeley STEM student survey responses, manually collected by me and 5 others in the iconic walkway of Sproul Plaza in Berkeley. As the team-lead and sole techincal contributer, I independently coded the analysis and visualizations, which led us to pass an official resolution to implement more robust STEM Ethics curriculum across all UCs.
