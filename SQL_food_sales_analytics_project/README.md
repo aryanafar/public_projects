@@ -1,29 +1,29 @@
 # SQL_food_sales_analytics_projects
-An individual SQL-based project with analytics on food sales data parsed from a nested json.
+This is an individual SQL-based project involving food sales analytics from parsing JSON files. I created, lodaded, and staged tables, and validated, cleansed, and preliminarily analyzed the data. After this analysis, I answered the question of whether or not to withold customer data from 3rd party sales channels.
 
 ## nb_1_create_load_prod_mapping.ipynb
-Creating and loading the product mapping table.
+This notebook contains the process for creating and loading the product mapping table.
 
 ## nb_2_parse_peak_sales_json.ipynb
-Parsing the peak sales json.
+This notebook contains the process for parsing the peak sales json.
 
 ## nb_3_create_load_staging.ipynb
-Creating and loading the staging tables.
+This notebook contains the process for creating and loading the staging tables.
 
 ## nb_4_validate_staging.ipynb
-Validating all of the datatypes and values of the staging tables.
+This notebook contains the process for validating all of the datatypes and values of the staging tables.
 
 ## nb_5_cleansing_customer_data.ipynb
-Cleansing the customer data.
+This notebook contains the process for cleansing the customer data.
 
 ## nb_6_prelim_analytics.ipynb
-Preliminary SQL analytics on data.
+This notebook contains the process for preliminary SQL analytics on the data.
 
 ## nb_7_to_withold_or_not.ipynb
-Written argument for witholding or not witholding data from 3rd party sales channels.
+This notebook contains the written argument for witholding or not witholding data from 3rd party sales channels.
 
 ## peak_product_mapping.csv
-Mapping the relationship between the Peak product id and the AGM product id
+This CSV maps the relationship between the Peak product ID and the AGM product ID.
 
 ## peak_sales_2020_10_03.json
-Nested json of sales, parsed into individual CSV's in b_2_parse_peak_sales_json.ipynb.
+This is a nested JSON of the sales, parsed into individual CSV's in nb_2_parse_peak_sales_json.ipynb.

@@ -1,2 +1,6 @@
-# STEM_Ethics_Survey_analysis.ipynb
-In a team of 10, in the role of Academics Director of an Associated Students of the University of California Senator's office, I collected about 100 UC Berkeley STEM students' survey responses to questions about their feelings towards Ethics curriculum. This python notebook contains my independently developed visual analysis of these survey responses. These visualizations led to the successful passing of an official student government resolution to instate more robust STEM Ethics curriculum across the UC.
+
+# STEM_Ethics_project
+This Python-based project analyzed 100 UC Berkeley STEM student survey responses, manually collected by me and 5 others in the iconic walkway of Sproul Plaza in Berkeley. As the team lead and sole techincal contributer, I independently coded the analysis and visualizations, which led us to pass an official resolution to implement more robust STEM Ethics curriculum across all UCs.
+
+## STEM_Ethics_Survey_analysis.ipynb
+This notebook contains the analysis and visualizations of the 100 student responses.
